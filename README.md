@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Web development**
 
-- 👨‍💻 All of my projects are available at [zjavka.sk](zjavka.sk) or here at Github
+- 👨‍💻 All of my projects are available at [zjavka.sk](zjavka.sk) (website under development) or here at Github
 
 - 📫 How to reach me **adam@zjavka.sk**
 
